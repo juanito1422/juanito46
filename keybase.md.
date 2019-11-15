@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am juanito1422 on github.
+  * I am juanito1422 (https://keybase.io/juanito1422) on keybase.
+  * I have a public key ASDdCkLLqBokpiwKdXJrRstgFUKRMKgn41hokmOe_1OB5wo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dd0a42cba81a24a62c0a75726b46cb6015429130a827e3586892639eff5381e70a",
+      "host": "keybase.io",
+      "kid": "0120dd0a42cba81a24a62c0a75726b46cb6015429130a827e3586892639eff5381e70a",
+      "uid": "51c5acc83fbb7dcacb37b2aede142e19",
+      "username": "juanito1422"
+    },
+    "merkle_root": {
+      "ctime": 1573851417,
+      "hash": "54d18ea3e2fd4ec84693456c0980a456ec4b264e3c7d098b8274e7dff5980e62c35177fac9a433f31bb32cbc5977e76c8d5f295894866746241ea183c409403b",
+      "hash_meta": "0ef8be205a8e8731259d69d5fe81bb518cb10d4dac231aeb16c75a3a78bc72b2",
+      "seqno": 9710082
+    },
+    "service": {
+      "entropy": "j5qanCSXg7FJUUZqHh4c3ltw",
+      "name": "github",
+      "username": "juanito1422"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573851425,
+  "expire_in": 504576000,
+  "prev": "49e61bc2b615359b6e6a87eb8d0a0e55ccc9408abc6771e1bcc2dc08e7d7e9d3",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+
+with the key [ASDdCkLLqBokpiwKdXJrRstgFUKRMKgn41hokmOe_1OB5wo](https://keybase.io/juanito1422), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3QpCy6gaJKYsCnVya0bLYBVCkTCoJ+NYaJJjnv9TgecKp3BheWxvYWTESpcCCcQgSeYbwrYVNZtuaofrjQoOVczJQIq8Z3HhvMLcCOfX6dPEINRpkbddy90PicH8qfltctKKQGEZ8sK+9odab9761XqvAgHCo3NpZ8RAHroH9GaWHT50gly4IBQ0GsKaJYF1pNFdRGx1ixXEHQItC2yj3ZRTlfqV40vxYtZFg2Zvpr+cayxZuVqH5BYED6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOxVqh15GlsLCuaPtp92Vh7X/7u3fltSTbfCfh8qeo37o3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/juanito1422
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id juanito1422
